@@ -1,4 +1,6 @@
 # Sentiment-Prediction-from-twitter-sentiment-classifier-
+# Instruction
+The report.pdf is a 2,000-word research report. These four pkl files are the original data used for the research. The ipynb file is the code part in this research. To open this ipynb file, you can download Anaconda and upload all files in this page to the Jupyter Notebook.
 # Part1
 The code in part1 is to read four embed pickle file and save them as dataframe data structures.This part of work is making preparation for the training part.
 
